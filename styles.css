@@ -3,7 +3,7 @@
 	display:flex;
 	justify-content:space-between;
 	align-items:left;
-	flex-wrap:wrap;
+	
 }
 .img{
 	width:100px;
@@ -12,7 +12,7 @@
 	
 }
 #b{
-	padding:0px;
+	
 	color:black;
 	background-color:white;
 
