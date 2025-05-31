@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+.hero{
+	display:flex;
+	justify-content:space-between;
+	align-items:left;
+	flex-wrap:wrap;
+}
+.img{
+	width:100px;
+	height:80px;
+	object-fit:cover;
+	
+}
+#b{
+	padding:20px;
+	color:black;
+	background-color:white;
+
+}
+#c{
+	padding:10px;
+	background-color:red;
+	color:white;
+	border-radius:10px;
+}
