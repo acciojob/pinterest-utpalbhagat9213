@@ -1,11 +1,12 @@
 /*  your css code here. If applicable */
+
 .hero{
 	display:flex;
 	justify-content:space-between;
 	align-items:center;
 	
 }
-.img1{
+img{
 	width:100px;
      height:100px;
 	object-fit:cover;
